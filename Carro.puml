@@ -1,0 +1,14 @@
+@startuml
+class Carro {
+    - marca: string
+    - modelo: string
+    - año: int
+    - color: string
+    
+    + arrancar(): void
+    + detener(): void
+    + acelerar(velocidad: int): void
+    + frenar(): void
+    + mostrar_info(): void
+}
+@enduml
