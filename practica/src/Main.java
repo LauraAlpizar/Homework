@@ -2,6 +2,8 @@ import models.circulo;
 import models.cuadrado;
 import models.triangulo;
 
+//semana 9 
+
 public class Main {
     public static void main(String[] args) {
         // Creación de objetos con constructores correctos
